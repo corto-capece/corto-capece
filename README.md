@@ -6,7 +6,6 @@
 
 - Python
 - Git et GitHub
-- Linux
 
 ## Orientation
 
