@@ -1,16 +1,17 @@
-## Hi there 👋
+# Corto Capece
 
-<!--
-**corto-capece/corto-capece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique à La Plateforme_ · Marseille
 
-Here are some ideas to get you started:
+## Compétences en cours d'acquisition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git et GitHub
+- Linux
+
+## Orientation
+
+Programmation et data.
+
+## Travaux
+
+Exercices pratiques et projets réalisés dans le cadre de la formation.
